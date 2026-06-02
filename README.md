@@ -76,4 +76,4 @@ This project focuses on analyzing customer shopping behavior using SQL, Python, 
 ## 📬 Contact
 If you have any suggestions or feedback, feel free to connect!
 
-LinkedIn: www.linkedin.com/in/chaitanya-gadwala-b18972192
+LinkedIn: www.linkedin.com/in/chaitanyagadwala04
